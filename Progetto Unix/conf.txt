@@ -1,4 +1,0 @@
-Durata_partita 10
-tiro 40
-infortunio 20
-dribbling 70
