@@ -1,0 +1,19 @@
+entra in squadra A il giocatore 6874
+entra in squadra A il giocatore 6875
+percentuale tiro: 10.00, percentuale infortunio: 40.00,percentuale dribbling: 20.00, 
+entra in squadra A il giocatore 6876
+entra in squadra A il giocatore 6877
+entra in squadra B il giocatore 6878
+entra in squadra B il giocatore 6879
+entra in squadra B il giocatore 6880
+entra in squadra B il giocatore 6882
+entra in squadra B il giocatore 6881
+entra in squadra A il giocatore 6872
+giocatore A 6874 fallisce il tiro in porta
+giocatore A 6874 ha effettuato un dribbling con successo
+giocatore A 6874 fallisce il tiro in porta
+giocatore A 6874 ha effettuato un dribbling con successo
+giocatore A 6874 ha effettuato un dribbling con successo
+giocatore A 6874 fallisce il tiro in porta
+tempo scaduto, partita finita
+risultato finale: squadra A 0 punti, squadra B 0 punti
