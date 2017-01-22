@@ -1,9 +1,0 @@
-La versione attuale gestice correttamente i meccanismi di base come la scelta randomica
-di un evento e la determinazione del suo successo o meno; purtroppo non è in grado di 
-sincronizzare le stampe ne sul terminale ne sul file di telecronaca pertanto è possibile 
-che venga visualizzato il messaggio "gioacatore PID prende la palla" prima ancora che 
-tutti i processi giocatori abbiano stampato il messaggio che ne conferma la presenza.
-Queste differenze sono solo visive e dipendono da come lo scheduler assegna la CPU
-in quanto le azioni come dribling, tiro, infortunio non sono atomiche ossia altri processi 
-possono eseguire il proprio codice tra il completamento effettivo di un'azione del giocatore 
-in possesso palla e la stampa della suddetta azione su stdout.
