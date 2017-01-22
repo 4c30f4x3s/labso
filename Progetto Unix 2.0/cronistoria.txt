@@ -1,0 +1,23 @@
+ Durata_partita 8
+entra in squadra A il giocatore 3915
+entra in squadra B il giocatore 3916
+entra in squadra A il giocatore 3917
+entra in squadra A il giocatore 3923
+entra in squadra B il giocatore 3918
+percentuale tiro: 60.00, percentuale infortunio: 40.00,percentuale dribbling: 80.00, 
+entra in squadra B il giocatore 3920
+entra in squadra A il giocatore 3919
+entra in squadra A il giocatore 3921
+entra in squadra B il giocatore 3922
+entra in squadra B il giocatore 3924
+giocatore 3915 squadra A infortunato
+entra in squadra A il giocatore 3930
+giocatore B 3916 dribla con successo
+giocatore 3916 squadra B infortunato
+entra in squadra B il giocatore 3931
+giocatore A 3917 dribla con successo
+giocatore 3917 squadra A infortunato
+entra in squadra A il giocatore 3932
+giocatore A 3923 dribla con successo
+tempo scaduto, partita finita
+risultato finale: squadra A 0 punti, squadra B 0 punti
